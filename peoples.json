@@ -129,5 +129,10 @@
     "github"  : "https://github.com/corentin-tech",
     "deskCoordinate": "5;1",
     "promo"   : 2020
+  },
+  {
+    "name"    : "Théo Gégout",
+    "github"  : "https://github.com/TheoGegout",
+    "promo"   : 2021
   }
 ]
